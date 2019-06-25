@@ -40,5 +40,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/bolaget" />
+        app:srcCompat="@drawable/bolaget" />    //bilden till systembolaget 
 </android.support.constraint.ConstraintLayout>
