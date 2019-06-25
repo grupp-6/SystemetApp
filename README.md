@@ -1,1 +1,1 @@
-# Ett projekt där gruppmedlemmarna skapar en Android App med systembolagets produkter
+# Design, logga och färgändringar på text
