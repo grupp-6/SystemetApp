@@ -1,4 +1,1 @@
-Design ändring 
-# Branch där design ändras
-***
-# Ett projekt där gruppmedlemmarna skapar en Android App med systembolagets produkter
+# Design, logga och färgändringar på text
