@@ -12,7 +12,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginRight="4dp"
         android:layout_marginBottom="4dp"
-        android:hint="Minimum alcohol"
+        android:hint="Please enter Minimum alcohol"
         android:inputType="numberDecimal" />
 
     <EditText
@@ -23,7 +23,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginRight="4dp"
         android:layout_marginBottom="4dp"
-        android:hint="Maximum alcohol"
+        android:hint="Please enter Maximum alcohol"
         android:inputType="numberDecimal" />
 
     <EditText
@@ -34,7 +34,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginRight="4dp"
         android:layout_marginBottom="4dp"
-        android:hint="Minimum price"
+        android:hint="Please enter Minimum price"
         android:inputType="numberDecimal" />
 
     <EditText
@@ -45,7 +45,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginRight="4dp"
         android:layout_marginBottom="4dp"
-        android:hint="Maximum price"
+        android:hint="Please enter Maximum price"
         android:inputType="numberDecimal" />
 
 
